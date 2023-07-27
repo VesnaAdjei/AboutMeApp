@@ -40,7 +40,7 @@ struct ContentView: View {
                 } //HStack
     
                 HStack{
-                    Button("Click me!"){
+                    Button("Click meee!"){
                         text = "My name is Vesna"
                     } .buttonStyle(.borderedProminent)
                         .tint(Color(hue: 0.732, saturation: 1.0, brightness: 1.0))
